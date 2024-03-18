@@ -1,0 +1,13 @@
+ID=00454123
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.2
+EnforcementType=2
+Tier=Free
+IssueDate=2023-02-05
+ExpirationDate=2028-03-07
+DeploymentMethod=Traditional
+SignCode=FF07
+Signature=302D0215008442398DCD7350A6A68A6DD139BB900D91F4F6FA02147986CAE9418856835E51CA60EA572F618059C16D
